@@ -1,0 +1,15 @@
+Submission contents:
+- React + Vite frontend with Tailwind CSS
+- Clean components for Login and Tasks
+- API wrapper that falls back to a mock implementation (so app works standalone)
+- Build-ready via `npm run build`
+- Simple test using Vitest
+
+How to run:
+1. npm install
+2. npm run dev
+3. open http://localhost:5173
+
+Notes:
+- Replace VITE_API_BASE with your backend URL to integrate with a real API.
+- Demo credentials (mock): demo@example.com / pass
